@@ -13,3 +13,11 @@ function greater(a:number){
 }
 
 console.log(greater(res))
+
+
+
+function fullname(f:string,l:string){
+    return f+l
+}
+
+console.log(fullname("ranu","ranjan"));

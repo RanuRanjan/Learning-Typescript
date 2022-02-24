@@ -9,3 +9,7 @@ function greater(a) {
     }
 }
 console.log(greater(res));
+function fullname(f, l) {
+    return f + l;
+}
+console.log(fullname("ranu", "ranjan"));

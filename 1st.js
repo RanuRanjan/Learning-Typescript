@@ -1,4 +1,6 @@
+// var decalre
 var start = "hELLO WORLD";
+// console
 console.warn(start);
 var App = /** @class */ (function () {
     function App() {
